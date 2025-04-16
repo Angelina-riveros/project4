@@ -1,3 +1,4 @@
+package edu.pitt.project4;
 public class WaitLine implements WaitLineInterface{
   private int arrivalTotal;
   private int servedTotal;
