@@ -1,4 +1,4 @@
-publc class Queue<T> implements QueueInterface<T>{
+public class Queue<T> implements QueueInterface<T>{
     private Node firstNode;
     private Node lastNode;
 
